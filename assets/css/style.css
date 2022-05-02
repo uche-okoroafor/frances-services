@@ -701,6 +701,7 @@ section {
 }
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+cursor: pointer;
 }
 .portfolio .portfolio-item .portfolio-info {
   opacity: 0;
@@ -730,6 +731,7 @@ section {
   font-size: 24px;
   top: calc(50% - 18px);
   color: #333333;
+  cursor: pointer;
 }
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
   color: #cc1616;
